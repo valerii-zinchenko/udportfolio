@@ -1,0 +1,20 @@
+{
+  "name": "udportfolio",
+  "version": "0.0.0",
+  "description": "Try to optimize critical rengering path",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/valerii-zinchenko/udportfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/valerii-zinchenko/udportfolio/issues"
+  },
+  "dependencies": {
+    "ngrok": "~0.2.2",
+    "grunt": "~0.4.5",
+    "grunt-contrib-cssmin": "~0.14.0",
+    "grunt-contrib-uglify": "~0.9.2",
+    "grunt-pagespeed": "~1.0.0"
+  }
+}
