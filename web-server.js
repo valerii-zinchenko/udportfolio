@@ -10,11 +10,13 @@ var mimeTypes = {
 	'.manifest': 'text/cache-manifest',
 	'.css': 'text/css',
 	'.js': 'application/javascript',
+	'': 'text/plain',
 	'.txt': 'text/plain',
 	'.woff': 'application/font-woff',
 	'.woff2': 'application/font-woff2',
 	'.jpg': 'image/jpg',
-	'.png': 'image/png'
+	'.png': 'image/png',
+	'.ico': 'image/x-icon'
 };
 
 function getFile(path, rs, mimeType) {
