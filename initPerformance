@@ -1,0 +1,61 @@
+[4mRunning "speed:http\://ef550d2d.ngrok.io" (speed) task[24m
+
+[4mRunning "pagespeed:local" (pagespeed) task[24m
+
+--------------------------------------------------------
+
+URL:       ef550d2d.ngrok.io
+Strategy:  desktop
+Score:     30
+
+CSS size                                   | 2.97 kB
+HTML size                                  | 2.9 kB
+Image size                                 | 2.4 MB
+JavaScript size                            | 27.24 kB
+CSS resources                              | 3
+Hosts                                      | 7
+JS resources                               | 2
+Resources                                  | 14
+Static resources                           | 10
+Other size                                 | 41.99 kB
+Total size                                 | 1.33 kB
+
+Enable GZIP compression                    | 0.29
+Leverage browser caching                   | 3
+Minify HTML                                | 0.06
+Minimize render blocking resources         | 6
+Optimize images                            | 237.7
+
+--------------------------------------------------------
+
+
+[4mRunning "pagespeed:mobile" (pagespeed) task[24m
+
+--------------------------------------------------------
+
+URL:       ef550d2d.ngrok.io
+Strategy:  mobile
+Score:     28
+
+CSS size                                   | 2.97 kB
+HTML size                                  | 2.9 kB
+Image size                                 | 2.4 MB
+JavaScript size                            | 27.24 kB
+CSS resources                              | 3
+Hosts                                      | 7
+JS resources                               | 2
+Resources                                  | 14
+Static resources                           | 10
+Other size                                 | 29.17 kB
+Total size                                 | 1.33 kB
+
+Enable GZIP compression                    | 0.29
+Leverage browser caching                   | 4.5
+Minify HTML                                | 0.06
+Minimize render blocking resources         | 24
+Optimize images                            | 237.71
+
+--------------------------------------------------------
+
+
+[32mDone, without errors.[39m

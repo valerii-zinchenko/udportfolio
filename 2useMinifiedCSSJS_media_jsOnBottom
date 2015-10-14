@@ -1,0 +1,59 @@
+[4mRunning "speed:http\://d4d0d6be.ngrok.io/" (speed) task[24m
+
+[4mRunning "pagespeed:local" (pagespeed) task[24m
+
+--------------------------------------------------------
+
+URL:       d4d0d6be.ngrok.io
+Strategy:  desktop
+Score:     90
+
+CSS size                                   | 2.56 kB
+HTML size                                  | 2.95 kB
+Image size                                 | 22.22 kB
+JavaScript size                            | 26.99 kB
+CSS resources                              | 3
+Hosts                                      | 7
+JS resources                               | 2
+Resources                                  | 14
+Static resources                           | 10
+Other size                                 | 41.99 kB
+Total size                                 | 1.35 kB
+
+Enable GZIP compression                    | 0.25
+Leverage browser caching                   | 3
+Minify HTML                                | 0.06
+Minimize render blocking resources         | 6
+
+--------------------------------------------------------
+
+
+[4mRunning "pagespeed:mobile" (pagespeed) task[24m
+
+--------------------------------------------------------
+
+URL:       d4d0d6be.ngrok.io
+Strategy:  mobile
+Score:     77
+
+CSS size                                   | 2.56 kB
+HTML size                                  | 2.95 kB
+Image size                                 | 22.22 kB
+JavaScript size                            | 26.99 kB
+CSS resources                              | 3
+Hosts                                      | 7
+JS resources                               | 2
+Resources                                  | 14
+Static resources                           | 10
+Other size                                 | 29.17 kB
+Total size                                 | 1.35 kB
+
+Enable GZIP compression                    | 0.25
+Leverage browser caching                   | 4.5
+Minify HTML                                | 0.06
+Minimize render blocking resources         | 24
+
+--------------------------------------------------------
+
+
+[32mDone, without errors.[39m

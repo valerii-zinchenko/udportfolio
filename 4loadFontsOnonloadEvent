@@ -1,0 +1,57 @@
+[4mRunning "speed:http\://d4d0d6be.ngrok.io/" (speed) task[24m
+
+[4mRunning "pagespeed:local" (pagespeed) task[24m
+
+--------------------------------------------------------
+
+URL:       d4d0d6be.ngrok.io
+Strategy:  desktop
+Score:     97
+
+CSS size                                   | 1.28 kB
+HTML size                                  | 4.41 kB
+Image size                                 | 22.22 kB
+JavaScript size                            | 26.62 kB
+CSS resources                              | 2
+Hosts                                      | 7
+JS resources                               | 1
+Resources                                  | 12
+Static resources                           | 8
+Other size                                 | 41.99 kB
+Total size                                 | 1.23 kB
+
+Enable GZIP compression                    | 0.26
+Leverage browser caching                   | 2
+Minify HTML                                | 0.06
+
+--------------------------------------------------------
+
+
+[4mRunning "pagespeed:mobile" (pagespeed) task[24m
+
+--------------------------------------------------------
+
+URL:       d4d0d6be.ngrok.io
+Strategy:  mobile
+Score:     96
+
+CSS size                                   | 1.28 kB
+HTML size                                  | 4.41 kB
+Image size                                 | 22.22 kB
+JavaScript size                            | 26.62 kB
+CSS resources                              | 2
+Hosts                                      | 7
+JS resources                               | 1
+Resources                                  | 12
+Static resources                           | 8
+Other size                                 | 29.17 kB
+Total size                                 | 1.23 kB
+
+Enable GZIP compression                    | 0.26
+Leverage browser caching                   | 3
+Minify HTML                                | 0.06
+
+--------------------------------------------------------
+
+
+[32mDone, without errors.[39m
